@@ -5,7 +5,7 @@
 
 - (a) $-\lambda^2 \Delta \psi+e^\psi u-e^{-\psi} v-C(x)=0$,
     
-- (b) $-\operatorname{div} J_n+R=0$,
+- (b) $- \text{div} J_n+R=0$,
 
 - (c) $J_n=\mu_n e^\psi \nabla u$,
 
@@ -21,11 +21,12 @@ $$
 
 $$
 J_{n+\frac{1}{2}}=\frac{1}{h_i}\left[ B\left( \psi _{i+1}-\psi _i \right) n_{i+1}-B\left( \psi _i-\psi _{i+1} \right) n_i \right] ,
-\\
+$$
+$$
 J_{n-\frac{1}{2}}=\frac{1}{h_i}\left[ B\left( \psi _i-\psi _{i-1} \right) n_i-B\left( \psi _{i-1}-\psi _i \right) n_{i-1} \right] .
 $$
 
-其中$B(x)=\frac{x}{e^x-1}$是Bernoulli函数。
+其中 $B(x)=\frac{x}{e^x-1}$ 是Bernoulli函数。
 
 方程的数值离散格式为
 $$
