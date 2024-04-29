@@ -1,0 +1,10 @@
+﻿  Set_diagonals.cpp
+D:\USTC——科学计算研究\Numerical_Iteration\v1.0\parameters.h(57,51): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\USTC——科学计算研究\Numerical_Iteration\v1.0\parameters.h(57,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  set_rhs.cpp
+D:\USTC——科学计算研究\Numerical_Iteration\v1.0\parameters.h(57,51): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\USTC——科学计算研究\Numerical_Iteration\v1.0\parameters.h(57,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+D:\USTC——科学计算研究\Numerical_Iteration\v1.0\set_rhs.cpp(36,23): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
+  求你了.vcxproj -> D:\USTC——科学计算研究\Numerical_Iteration\v2.0\Release\Two_Carrier_1D_V1.exe

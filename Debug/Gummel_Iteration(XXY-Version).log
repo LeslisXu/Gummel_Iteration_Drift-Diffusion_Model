@@ -1,0 +1,22 @@
+﻿D:\new_software\VScode\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Two_Carrier_1D_V1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  bernoulli.cpp
+D:\Aaa推荐系统\Gummel_Iteration(XXY-Version)\parameters.h(59,51): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Aaa推荐系统\Gummel_Iteration(XXY-Version)\parameters.h(59,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  main.cpp
+D:\Aaa推荐系统\Gummel_Iteration(XXY-Version)\parameters.h(59,51): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Aaa推荐系统\Gummel_Iteration(XXY-Version)\parameters.h(59,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  photogeneration.cpp
+D:\Aaa推荐系统\Gummel_Iteration(XXY-Version)\parameters.h(59,51): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Aaa推荐系统\Gummel_Iteration(XXY-Version)\parameters.h(59,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  recombination.cpp
+D:\Aaa推荐系统\Gummel_Iteration(XXY-Version)\parameters.h(59,51): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Aaa推荐系统\Gummel_Iteration(XXY-Version)\parameters.h(59,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  Set_diagonals.cpp
+D:\Aaa推荐系统\Gummel_Iteration(XXY-Version)\parameters.h(59,51): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Aaa推荐系统\Gummel_Iteration(XXY-Version)\parameters.h(59,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  set_rhs.cpp
+D:\Aaa推荐系统\Gummel_Iteration(XXY-Version)\parameters.h(59,51): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Aaa推荐系统\Gummel_Iteration(XXY-Version)\parameters.h(59,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  thomas_tridiag_solve.cpp
+  正在生成代码...
+  Gummel_Iteration(XXY-Version).vcxproj -> D:\Aaa推荐系统\Gummel_Iteration(XXY-Version)\Debug\Gummel_Iteration_XXY-V1.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\USTC——科学计算研究\Numerical_Iteration\v1.0\parameters.h(57,51): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\USTC——科学计算研究\Numerical_Iteration\v1.0\parameters.h(57,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  求你了.vcxproj -> D:\USTC——科学计算研究\Numerical_Iteration\v2.0\Debug\Two_Carrier_1D_V1.exe
